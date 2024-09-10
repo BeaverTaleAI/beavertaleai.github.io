@@ -1,1 +1,1 @@
-Building AI powered visual novels.
+Building AI powered role-playing video games.
